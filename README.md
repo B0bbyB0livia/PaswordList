@@ -1,9 +1,9 @@
-# P5ych0N37 PaswordList
+
 Our latest full PassWordList contains around 39 Million passwords.
 
 We'll keep this up to date as best we can and add new passwords to the list regularly
 
-For comments or suggestions, connect with us on PSN1.0 @ (http://psycnets7z6tvqpa.onion/)
+For comments or suggestions, connect with us on PSN1.
 
 You can download the pass list here:
 
